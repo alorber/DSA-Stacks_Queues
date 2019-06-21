@@ -1,4 +1,4 @@
-# DSA2 Stacks & Queues
+# DSA Stacks & Queues
 
 This is an implementation of stacks and queues for <i>Data Structures and Algorithms</i> project 1.
 
